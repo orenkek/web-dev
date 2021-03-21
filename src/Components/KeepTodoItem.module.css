@@ -1,0 +1,22 @@
+.KeepTodoListItem{
+    display: flex;
+}
+
+.KeepTodoListItem .checkbox{
+    float: left;
+}
+
+.isDone{
+    text-decoration: line-through;
+    background: lightgreen;
+}
+
+.KeepTodoListItem .inputField{
+    width: 100%;
+    text-align: center;
+}
+
+.KeepTodoListItem button{
+    float: right;
+    width: auto;
+}

@@ -1,0 +1,33 @@
+.Keep{
+    width: 300px;
+    min-height: 200px;
+    border: black solid;
+    padding: 5px;
+}
+
+.inputField{
+
+}
+
+.Keep ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    min-height: 200px;
+}
+
+.Keep button{
+    /*float: bottom;*/
+}
+
+.keepNoteInput{
+    text-align: start;
+    min-height: 200px;
+    padding: 10px;
+    width: 90%;
+    resize: none;
+}
+
+.keepNoteDeleteButton{
+
+}

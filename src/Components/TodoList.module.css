@@ -1,9 +1,0 @@
-.TodoList{
-    width: 300px;
-    min-height: 200px;
-    border: black solid;
-}
-
-.TodoList ul{
-    list-style-type: none;
-}
